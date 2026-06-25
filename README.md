@@ -1,7 +1,9 @@
 #my-linux-tools
 
- Linuxの授業で作成した自作コマンド集です。
+Linuxの授業で作成した自作コマンド集です。
 
 ##showpath
 PATHの中身を1行ずつ表示します。
-EOF
+
+今日も今日とてLinux
+
