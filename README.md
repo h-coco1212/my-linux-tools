@@ -4,4 +4,4 @@
 
 ##showpath
 PATHの中身を1行ずつ表示します。
-EOF
+
